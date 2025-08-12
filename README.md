@@ -1,6 +1,6 @@
 # Description
  
-This is an application similar to Shazam, but for desktop which brings a series of features such as:
+This is an application similar to Shazam which brings a series of features such as:
 - Recognizing songs via microphone
 - Saving song details and lyrics in pdf format
 - Saving song in .mp3 format
